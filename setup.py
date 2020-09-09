@@ -20,7 +20,7 @@ setup(
     author='Takeshi KOMIYA, cocoatomo',
     author_email='i.tkomiya@gmail.com, cocoatomo77@gmail.com',
     packages=['docutils-stubs'],
-    install_requires=['docutils==0.14'],
+    install_requires=['docutils==0.16'],
     python_requires=">=3.5",
     package_data=find_stubs('docutils-stubs'),
     zip_safe=False,
